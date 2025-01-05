@@ -1,0 +1,131 @@
+body{
+  background-color: rgb(241, 241, 241);
+    font-family: "DM Sans", serif;
+    
+}
+
+.box-1{
+    background-color: hsl(31, 66%, 93%);
+    width: 300px;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 6px;
+    font-size: 25px;
+}
+.span-1{
+   color: hsl(256, 67%, 59%);
+   font-style: italic;
+}
+.img-11 {
+width: 100%;
+}
+.box-2{
+    background-color:hsl(39, 100%, 71%) ;
+width: 300px;
+padding: 20px;
+font-size: 30px;
+border-radius: 6px;
+
+}
+.img-2{
+    width: 100%;
+}
+.box-3{
+    background-color: hsl(256, 67%, 59%);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 1000px;
+    
+   
+}
+.span-2{
+    color:hsl(39, 100%, 71%) ;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
+.reviews{
+    color: white;
+}
+.box-platforms
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(238, 234, 234);
+    width: 400px;
+    overflow: hidden
+}
+
+.plat-assts{
+width: 500px;
+}
+.plat-text{
+    font-size: 40px;
+}
+.box-5{
+    border-radius: 7px;
+    padding: 20px;
+    background-color: white;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    margin-top: 50px;
+
+}
+.number-prct{
+font-size: 90px;
+
+}
+h4{
+    width: 100%;
+}
+.box-6{
+    background-color: hsl(39, 100%, 71%) ;
+    width:400px;
+    overflow: hidden;
+    height: 350px;
+    margin-top: 20px;
+    border-radius: 9px;
+    padding: 30px
+}
+.calendar{
+    width: 100%;
+  
+
+}
+.box-6-h{
+    font-size: 40px;
+    line-height: 1;
+}
+.box-7{
+    background-color: hsl(254, 88%, 90%);
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    overflow: hidden;
+    padding-left: 30px;
+   
+}
+.prime-time{
+    width: 500px;
+    
+
+}
+.box-8{
+    background-color: hsl(256, 67%, 59%);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 900px;
+}
